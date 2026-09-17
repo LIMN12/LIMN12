@@ -2,6 +2,8 @@
 
 计算机专业大一学生，正在通过小项目练习从想法、AI 协作开发、调试、Git 提交到完成交付的完整过程。
 
+**作品集介绍页：** https://limn12.github.io/LIMN12/
+
 ## 我正在学什么
 
 - Git / GitHub：仓库、Commit、Push、Tag、Release 和 README
